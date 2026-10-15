@@ -3,6 +3,7 @@
 # Awesome AI Agent Tools
 
 <img src=".github/banner.jpg" alt="Awesome AI Agent Tools" width="800">
+- [InGravity](https://github.com/Tchesseludovic17-cloud/ingravity) - Self-hosted approval gate that blocks/approves risky AI agent actions before they run.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/michielhdoteth/awesome-ai-agent-tools?style=flat-square&label=Stars&color=gold)](https://github.com/michielhdoteth/awesome-ai-agent-tools/stargazers)
